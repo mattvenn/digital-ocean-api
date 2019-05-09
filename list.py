@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import digitalocean
 from tokens import token
 manager = digitalocean.Manager(token=token)
